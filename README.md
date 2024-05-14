@@ -1,10 +1,10 @@
-# Desafio_IA_Google_Gemini <img align="right" width="100" height="50" src="https://github.com/marcelosi10/imagens/blob/main/ColabPython.jpg">
+# Desafio IA Google Gemini <img align="right" width="100" height="50" src="https://github.com/marcelosi10/imagens/blob/main/ColabPython.jpg">
    **Chat de RH - Automação para o Direcionamento de Carreira**   <img align="left" width="100" height="100" src="https://github.com/marcelosi10/imagens/blob/main/GeminiPY.jpeg">
 
 
-    1. Desafio: Elaborar ao modelo de IA, o cenário em que no chat eu passe para a IA quais os conhecimentos técnicos e linguagens de programação 
-    eu domino, habilidades e interesses e com base nessas informações a IA me informe qual a área de TI eu terei maior sucesso e devo seguir: Se Analista de Dados,
-    Desenvolvedor, Analista de Redes, Analista de IA, etc.
+    1. Desafio: Elaborar ao modelo de IA, o cenário em que no chat o usuário passe para a IA quais os conhecimentos técnicos e linguagens de programação 
+    o candidato domina, habilidades e interesses e com base nessas informações a IA nos informe qual a área de TI o candidato terá maior sucesso e deverá seguir: Se Analista 
+    de Dados, Desenvolvedor, Analista de Redes, Analista de IA, etc.
 
 **_2. Parametros de Input no Chat:_**
 
