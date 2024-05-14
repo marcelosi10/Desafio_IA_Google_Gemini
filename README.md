@@ -7,9 +7,9 @@ Desenvolvedor, Analista de Redes, Analista de IA, etc.
 
 2. Parametros de Input no Chat:
 
-2.1 Listei meus conhecimentos técnicos:
-2.2 Descrevi minhas habilidades e interesses:
-2.3 Com base nas informações acima, o modelo de IA analisou e sugeriu algumas áreas de TI que podem ser um bom caminho para eu seguir:
+  2.1 Listei meus conhecimentos técnicos:
+  2.2 Descrevi minhas habilidades e interesses:
+  2.3 Com base nas informações acima, o modelo de IA analisou e sugeriu algumas áreas de TI que podem ser um bom caminho para eu seguir:
 
 3. Forma pela qual eu elaborei a pergunta seguindo os critérios acima:
 
