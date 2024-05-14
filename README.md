@@ -23,3 +23,8 @@
    uma base de dados de Currículos, e automatizando a leitura da base para trazer as perguntas, e fazer o input de perguntas de cada candidato para o modelo processar e 
    salvar o resultado completo num arquivo Excel como exemplo. Isso o auxiliaria muito de forma rápida e precisa, para ter as melhores respostas de um direcionamento de 
    carreira para cada candidato. Além da vantagem dessa automação liberar o recrutador para que ele obtenha mais tempo livre na execução de outras tarefas em sua área.
+
+**6. Link de Acesso ao Código da Automação:**
+     <a href="//github.com/marcelosi10/Desafio_IA_Google_Gemini/blob/main/RhDirecionamentoCarreira.ipynb"><img align="center" width="80" height="40" 
+     src="https://github.com/marcelosi10/imagens/blob/main/RHDirecionaCarreira.jpg"></a>
+     
