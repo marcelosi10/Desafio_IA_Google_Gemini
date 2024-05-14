@@ -1,4 +1,4 @@
-# Desafio_IA_Google_Gemini
+# Desafio_IA_Google_Gemini <img align="right" width="100" height="50" src="https://github.com/marcelosi10/imagens/blob/main/ColabPython.jpg">
    **Chat de RH - Automação para o Direcionamento de Carreira**   <img align="left" width="100" height="100" src="https://github.com/marcelosi10/imagens/blob/main/GeminiPY.jpeg">
 
 
